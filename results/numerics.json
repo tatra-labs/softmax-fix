@@ -1,0 +1,226 @@
+{
+  "collapse": [
+    {
+      "lead": 0,
+      "standard": -0.9990000128746033,
+      "fixed": -0.9990000128746033,
+      "true": -0.9990000128746033,
+      "standard_sum": -8.172355592250824e-08,
+      "fixed_sum": 3.457535058259964e-08,
+      "representable": true
+    },
+    {
+      "lead": 5,
+      "standard": -0.8706541061401367,
+      "fixed": -0.8706541061401367,
+      "true": -0.8706541061401367,
+      "standard_sum": 9.627547115087509e-08,
+      "fixed_sum": 9.627547115087509e-08,
+      "representable": true
+    },
+    {
+      "lead": 10,
+      "standard": -0.04338866472244263,
+      "fixed": -0.04338674992322922,
+      "true": -0.04338674992322922,
+      "standard_sum": -2.012944605667144e-06,
+      "fixed_sum": -3.65253072232008e-09,
+      "representable": true
+    },
+    {
+      "lead": 15,
+      "standard": -0.0003120899200439453,
+      "fixed": -0.0003055030247196555,
+      "true": -0.0003055030247196555,
+      "standard_sum": -6.588791649164705e-06,
+      "fixed_sum": 6.0254023992456496e-12,
+      "representable": true
+    },
+    {
+      "lead": 20,
+      "standard": -1.6689300537109375e-06,
+      "fixed": -2.059088046735269e-06,
+      "true": -2.059088046735269e-06,
+      "standard_sum": 3.901584919585588e-07,
+      "fixed_sum": 2.7711166694643907e-13,
+      "representable": true
+    },
+    {
+      "lead": 25,
+      "standard": 0.0,
+      "fixed": -1.3874055682094877e-08,
+      "true": -1.3874055682094877e-08,
+      "standard_sum": 1.3874055802658158e-08,
+      "fixed_sum": 1.205632815803881e-16,
+      "representable": true
+    },
+    {
+      "lead": 30,
+      "standard": 0.0,
+      "fixed": -9.348263135811052e-11,
+      "true": -9.348263135811052e-11,
+      "standard_sum": 9.348265289307617e-11,
+      "fixed_sum": 2.1534965650993332e-17,
+      "representable": true
+    },
+    {
+      "lead": 35,
+      "standard": 0.0,
+      "fixed": -6.298811841033702e-13,
+      "true": -6.298811841033702e-13,
+      "standard_sum": 6.298811736742771e-13,
+      "fixed_sum": -1.0429093163068573e-20,
+      "representable": true
+    },
+    {
+      "lead": 40,
+      "standard": 0.0,
+      "fixed": -4.244105169029771e-15,
+      "true": -4.244105169029771e-15,
+      "standard_sum": 4.244105777007521e-15,
+      "fixed_sum": 6.079777502264753e-22,
+      "representable": true
+    },
+    {
+      "lead": 45,
+      "standard": 0.0,
+      "fixed": -2.8596560218244226e-17,
+      "true": -2.8596560218244226e-17,
+      "standard_sum": 2.859656090971552e-17,
+      "fixed_sum": 6.914712933060466e-25,
+      "representable": true
+    },
+    {
+      "lead": 50,
+      "standard": 0.0,
+      "fixed": -1.9268215941839515e-19,
+      "true": -1.9268215941839515e-19,
+      "standard_sum": 1.9268211434603847e-19,
+      "fixed_sum": -4.507235668070773e-26,
+      "representable": true
+    },
+    {
+      "lead": 55,
+      "standard": 0.0,
+      "fixed": -1.2982819837766762e-21,
+      "true": -1.2982819837766762e-21,
+      "standard_sum": 1.2982819039045096e-21,
+      "fixed_sum": -1.783811721931013e-28,
+      "representable": true
+    },
+    {
+      "lead": 60,
+      "standard": 0.0,
+      "fixed": -8.747756675225417e-24,
+      "true": -8.747756675225417e-24,
+      "standard_sum": 8.747754381828039e-24,
+      "fixed_sum": -2.2933973777763205e-30,
+      "representable": true
+    },
+    {
+      "lead": 65,
+      "standard": 0.0,
+      "fixed": -5.894189957512561e-26,
+      "true": -5.894189957512561e-26,
+      "standard_sum": 5.894190507004448e-26,
+      "fixed_sum": 5.494918872579832e-33,
+      "representable": true
+    },
+    {
+      "lead": 70,
+      "standard": 0.0,
+      "fixed": -3.971474582795502e-28,
+      "true": -3.971474582795502e-28,
+      "standard_sum": 3.9714745042724793e-28,
+      "fixed_sum": -7.85230226349288e-36,
+      "representable": true
+    },
+    {
+      "lead": 75,
+      "standard": 0.0,
+      "fixed": -2.6759585347881555e-30,
+      "true": -2.6759585347881555e-30,
+      "standard_sum": 2.6759583601170418e-30,
+      "fixed_sum": -1.7467111369249928e-37,
+      "representable": true
+    },
+    {
+      "lead": 80,
+      "standard": 0.0,
+      "fixed": -1.803046703688151e-32,
+      "true": -1.803046703688151e-32,
+      "standard_sum": 1.8030464772562558e-32,
+      "fixed_sum": -2.2643189521454708e-39,
+      "representable": true
+    },
+    {
+      "lead": 85,
+      "standard": 0.0,
+      "fixed": -1.214883169096301e-34,
+      "true": -1.214883169096301e-34,
+      "standard_sum": 1.214883172683625e-34,
+      "fixed_sum": 3.587324068671532e-43,
+      "representable": true
+    },
+    {
+      "lead": 90,
+      "standard": 0.0,
+      "fixed": -8.185814347227645e-37,
+      "true": -8.185814347227645e-37,
+      "standard_sum": 8.185814683539277e-37,
+      "fixed_sum": 3.363116314379561e-44,
+      "representable": true
+    },
+    {
+      "lead": 95,
+      "standard": 0.0,
+      "fixed": -5.5155948334903395e-39,
+      "true": -5.5155948334903395e-39,
+      "standard_sum": 5.5155948334903395e-39,
+      "fixed_sum": 0.0,
+      "representable": true
+    },
+    {
+      "lead": 100,
+      "standard": 0.0,
+      "fixed": -3.779722347823329e-41,
+      "true": -3.7795822179768966e-41,
+      "standard_sum": 3.779722347823329e-41,
+      "fixed_sum": 0.0,
+      "representable": true
+    }
+  ],
+  "cancellation": [
+    {
+      "teacher_cached_as": "float32",
+      "naive_l1": 0.0,
+      "naive_max": 0.0,
+      "fixed_l1": 0.0,
+      "fixed_max": 0.0
+    },
+    {
+      "teacher_cached_as": "bfloat16",
+      "naive_l1": 0.040744438767433167,
+      "naive_max": 0.003971785306930542,
+      "fixed_l1": 0.0,
+      "fixed_max": 0.0
+    },
+    {
+      "teacher_cached_as": "float16",
+      "naive_l1": 0.0057254936546087265,
+      "naive_max": 0.0008884668350219727,
+      "fixed_l1": 0.0,
+      "fixed_max": 0.0
+    }
+  ],
+  "drift": {
+    "naive": {
+      "logit_drift": 0.030153274536132812,
+      "kl_from_teacher": 9.235988545697182e-05
+    },
+    "fixed": {
+      "logit_drift": 0.0,
+      "kl_from_teacher": 0.0
+    }
+  }
+}
